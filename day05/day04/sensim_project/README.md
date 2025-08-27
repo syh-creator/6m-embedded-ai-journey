@@ -16,4 +16,4 @@
 ### 使用 pipx（推荐，隔离环境）
 ```bash
 pipx install git+https://github.com/yourusername/sensim.git
-# 首次使用建议：pipx ensurepath  sada
+# 首次使用建议：pipx ensurepath  sada sacomasda
