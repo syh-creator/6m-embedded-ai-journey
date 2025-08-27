@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: sensim
+Version: 0.2.0
+Requires-Dist: click>=8.0
+Requires-Dist: matplotlib>=3.5
+Requires-Dist: numpy>=1.21
+Requires-Dist: scipy>=1.7
+Requires-Dist: pytest>=6.2
+Dynamic: requires-dist
